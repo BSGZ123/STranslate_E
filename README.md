@@ -10,7 +10,9 @@
 </p>
 <h1 align="center">STranslate</h1>
 
-<p align="center">WPF 开发的一款<strong>即开即用</strong>、<strong>即用即走</strong>的翻译工具</p>
+<p align="center">WPF开发的一款<strong>即开即用</strong>、<strong>即用即走</strong>的翻译工具</p>
+<p align="center">源项目如上，已移植至.NET7,置换修复</p>
+
 
 
 ## 功能
